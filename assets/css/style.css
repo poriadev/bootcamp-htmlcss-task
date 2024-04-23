@@ -341,9 +341,6 @@ span {
 	}
 }
 @media screen and (min-width: 1023.98px) {
-	.requests {
-		padding: 7rem 5rem;
-	}
 	.requests__content {
 		grid-template-columns: repeat(3, 1fr);
 	}
