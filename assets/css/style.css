@@ -215,6 +215,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 
+/* Variables */
 :root {
 	--color-primary: #219F95;
 	--color-heading: #1E1E1E;
